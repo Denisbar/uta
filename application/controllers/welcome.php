@@ -168,11 +168,6 @@ class Welcome extends CI_Controller
         }
     }
 
-    public function show_people()
-    {
-
-        //функция показывает зарегистрированных пользователей
-    }
 
 }
 
