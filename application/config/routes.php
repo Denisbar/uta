@@ -40,6 +40,7 @@
 
 $route['price/viewRows'] = 'price/viewRows';
 $route['price'] = 'price';
+$route['price/price_list_delete'] = 'price';
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
 $route['order_for_servise'] = "order";
